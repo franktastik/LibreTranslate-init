@@ -15,7 +15,7 @@ passwd -d libretranslate
 su libretranslate
 
 # Download LibreTranslate-init
-git clone https://github.com/argosopentech/LibreTranslate-init.git ~/LibreTranslate-init
+git clone https://github.com/franktastik/LibreTranslate-init.git ~/LibreTranslate-init
 
 # Download dependencies and run LibreTranslate on port 5000
 ~/LibreTranslate-init/setup.sh
