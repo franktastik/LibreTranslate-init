@@ -13,7 +13,7 @@ sudo yum install -y libicu-dev python3-icu pkg-config
 sudo yum install -y nginx
 
 # Download LibreTranslate source
-git clone https://github.com/LibreTranslate/LibreTranslate.git ~/LibreTranslate
+git clone https://github.com/franktastik/LibreTranslate-init.git ~/LibreTranslate
 
 # Setup virtualenv
 virtualenv ~/LibreTranslate/env
